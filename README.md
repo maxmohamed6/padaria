@@ -1,6 +1,6 @@
-# padaria
+# Projeto Flutter - Padaria
 
-A new Flutter project.
+Projeto para práica de Flutter para um contador de pessoas dentro de uma padaria.
 
 ## Getting Started
 
